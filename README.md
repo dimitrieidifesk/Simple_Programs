@@ -1,4 +1,4 @@
-# Проект "Задачи для Junior Python разработчика"
+# Проект "90 задач для Junior Python разработчика"
 
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![top-language](https://img.shields.io/github/languages/top/dimitrieidifesk/Audiotok)
